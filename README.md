@@ -10,3 +10,5 @@ Curso: 4º
 ## Introducción
 
 En esta práctica, hemos generado un sólido de revolución a partir de una serie de puntos que un usuario debe introducir manualmente
+
+![](animacion.gif)
