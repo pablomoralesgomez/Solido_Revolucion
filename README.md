@@ -1,1 +1,1 @@
-# Solido_Revolucion
+# Solido de Revolucion
